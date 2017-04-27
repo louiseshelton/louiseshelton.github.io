@@ -1,12 +1,11 @@
 {
-  "name": "freelancer",
-  "title": "Freelancer",
-  "version": "3.3.7+1",
-  "homepage": "http://startbootstrap.com/template-overviews/freelancer",
-  "author": "Start Bootstrap",
+  "name": "Louise Shelton",
+  "title": "Louise Shelton",
+  "homepage": "https://louiseshelton.github.io/",
+  "author": "Luke Storry",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
+    "url": "https://github.com/louiseshelton/louiseshelton.github.io/raw/master/LICENSE"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
@@ -23,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+    "url": "https://github.com/louiseshelton/louiseshelton.github.io"
   }
 }
