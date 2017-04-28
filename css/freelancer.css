@@ -184,6 +184,13 @@ section.success {
   background: #18BC9C;
   color: white;
 }
+section.img_section {
+  background-image: url(../img/drop_in_the_ocean/drop_interview.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  color: white;
+}
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
